@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+}
+body{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg,  rgb(104, 32, 153), rgb(204, 0, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    height: 100%;
+    font-weight: bold;
+}
+header{
+    align-items: center;
+    justify-content: center;
+}
+header h1{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.botao button{
+    background-color: #9381ff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    justify-content: right;
+    border-radius: 10px;
+}
