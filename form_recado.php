@@ -9,7 +9,7 @@
 </head>
 <body>
     <form action="recad.php" method="post">
-        <br>
+    <br>
     <h1>ADICIONAR RECADO</h1>
     <h2>RECADO</h2>
     <textarea name="recado" id="recado" cols="30" rows="10" placeholer="Recado:"></textarea>
