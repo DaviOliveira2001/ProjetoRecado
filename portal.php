@@ -38,10 +38,10 @@ mysqli_close($conn);
  	<h1>Lista de Recados</h1>
 	<table>
 		<tr>
-			<th>ID</th>
-			<th>Recado</th>
-			<th>Data</th>
-			<th>Ação</th>
+			<td>ID</td>
+			<td>Recado</td>
+			<td>Data</td>
+			<td>Ação</td>
 		</tr>
 		<?php
         include("config.php");

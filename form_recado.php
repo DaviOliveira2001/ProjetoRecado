@@ -14,7 +14,7 @@
     <h2>RECADO</h2>
     <textarea name="recado" id="recado" cols="30" rows="10" placeholer="Recado:"></textarea>
     <h2>DATA</h2>
-    <input type="text" name="data" id="data" placeholder="Data: ">
+    <input type="date" name="data" id="data" placeholder="Data: ">
     <br>
     <br>
     <button class="botao">Salvar</button>
